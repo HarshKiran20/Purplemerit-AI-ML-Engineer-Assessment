@@ -287,6 +287,6 @@ numpy
 
 ## Submission
 
-- **GitHub Repository:** `https://github.com/<your-username>/warroom`
+- **GitHub Repository:** `[https://github.com/<your-username>/warroom](https://github.com/HarshKiran20/Purplemerit-AI-ML-Engineer-Assessment/blob/main/README.md)`
 - **Demo Video:** Screen recording showing the full run and final `decision.json` output
 ```
