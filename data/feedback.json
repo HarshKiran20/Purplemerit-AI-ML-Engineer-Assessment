@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "day": "Day 8",
+    "channel": "app_store",
+    "rating": 2,
+    "text": "The new rewards dashboard keeps crashing every time I try to redeem points. Completely broken.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 2,
+    "day": "Day 8",
+    "channel": "twitter",
+    "rating": null,
+    "text": "Hey @PurpleMerit why is the app so slow now? Took 30 seconds to load my rewards page \u00f0\u0178\u02dc\u00a4",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 3,
+    "day": "Day 8",
+    "channel": "in_app",
+    "rating": 4,
+    "text": "Love the new look of the rewards dashboard! Much cleaner UI. Keep it up.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 4,
+    "day": "Day 8",
+    "channel": "support_ticket",
+    "rating": 1,
+    "text": "My payment failed twice after the update. I was charged but didn't get my reward credits. Please fix ASAP.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 5,
+    "day": "Day 8",
+    "channel": "app_store",
+    "rating": 5,
+    "text": "Finally! The new rewards feature is exactly what I wanted. Super intuitive.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 6,
+    "day": "Day 9",
+    "channel": "support_ticket",
+    "rating": 1,
+    "text": "App crashes every single time I open the rewards tab. iPhone 13, iOS 17. Unusable.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 7,
+    "day": "Day 9",
+    "channel": "twitter",
+    "rating": null,
+    "text": "PurpleMerit just lost my trust. Tried to redeem my reward, payment failed, support takes 2 days to respond. Switching to competitor.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 8,
+    "day": "Day 9",
+    "channel": "in_app",
+    "rating": 3,
+    "text": "The dashboard looks good but it's laggy. Hope they fix the performance issues soon.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 9,
+    "day": "Day 9",
+    "channel": "support_ticket",
+    "rating": 1,
+    "text": "Charged twice for the same reward redemption. This is unacceptable. Need an immediate refund.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 10,
+    "day": "Day 9",
+    "channel": "app_store",
+    "rating": 2,
+    "text": "Used to work fine. Since the update, I can't even complete the rewards setup. Stuck on step 2 of 4.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 11,
+    "day": "Day 9",
+    "channel": "in_app",
+    "rating": 5,
+    "text": "The gamification elements in the new dashboard are fun! Enjoying the streak feature.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 12,
+    "day": "Day 9",
+    "channel": "twitter",
+    "rating": null,
+    "text": "Anyone else seeing massive slowdowns in PurpleMerit today? My rewards page takes forever to load.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 13,
+    "day": "Day 9",
+    "channel": "support_ticket",
+    "rating": 1,
+    "text": "Payment gateway error code 502 keeps appearing. Cannot complete any transactions since the update.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 14,
+    "day": "Day 10",
+    "channel": "app_store",
+    "rating": 1,
+    "text": "1 star. App crashes. Payment fails. Support doesn't respond. What happened to this product?",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 15,
+    "day": "Day 10",
+    "channel": "support_ticket",
+    "rating": 1,
+    "text": "I'm seeing a completely blank rewards screen. My 5000 points have disappeared. This is a serious bug.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 16,
+    "day": "Day 10",
+    "channel": "twitter",
+    "rating": null,
+    "text": "Cancelled my PurpleMerit subscription today. The new update broke everything. Very disappointed.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 17,
+    "day": "Day 10",
+    "channel": "in_app",
+    "rating": 4,
+    "text": "New rewards dashboard is a great idea but needs performance work. Crashes sometimes but I see the potential.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 18,
+    "day": "Day 10",
+    "channel": "support_ticket",
+    "rating": 2,
+    "text": "The onboarding flow for the new feature is confusing. Couldn't figure out step 3. Gave up after 10 minutes.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 19,
+    "day": "Day 10",
+    "channel": "app_store",
+    "rating": 3,
+    "text": "Mixed feelings. Love the concept of smart rewards but the execution needs work. Hoping for a fix soon.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 20,
+    "day": "Day 10",
+    "channel": "twitter",
+    "rating": null,
+    "text": "@PurpleMerit is the rewards feature down? Getting error 502 constantly. Several of my friends have same issue.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 21,
+    "day": "Day 10",
+    "channel": "support_ticket",
+    "rating": 1,
+    "text": "Critical bug: selecting a reward tier causes the app to freeze and crash. Reproducible every time on Android 14.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 22,
+    "day": "Day 10",
+    "channel": "in_app",
+    "rating": 5,
+    "text": "Really impressed with the personalized recommendations in the rewards dashboard. Feels very premium.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 23,
+    "day": "Day 10",
+    "channel": "app_store",
+    "rating": 2,
+    "text": "Update broke the app. Crash on launch for me. Please roll back or patch quickly.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 24,
+    "day": "Day 10",
+    "channel": "twitter",
+    "rating": null,
+    "text": "PurpleMerit rewards dashboard is a disaster. Slow, crashes, payment issues. Who QA'd this release?",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 25,
+    "day": "Day 10",
+    "channel": "support_ticket",
+    "rating": 1,
+    "text": "Lost all my accumulated reward points after the update. Balance shows zero. This is a data integrity issue!",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 26,
+    "day": "Day 10",
+    "channel": "in_app",
+    "rating": 4,
+    "text": "The new UI is beautiful and the rewards catalog is much richer. Just needs to be faster.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 27,
+    "day": "Day 10",
+    "channel": "app_store",
+    "rating": 1,
+    "text": "DO NOT UPDATE. Crashes constantly, payment failures, and support is overwhelmed. Wait for a fix.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 28,
+    "day": "Day 10",
+    "channel": "twitter",
+    "rating": null,
+    "text": "Genuinely love what PurpleMerit is trying to do with the rewards system. Hope they sort the bugs out fast.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 29,
+    "day": "Day 10",
+    "channel": "support_ticket",
+    "rating": 2,
+    "text": "The rewards redemption page shows incorrect point balances. My account shows different values on web vs app.",
+    "sentiment": "unknown"
+  },
+  {
+    "id": 30,
+    "day": "Day 10",
+    "channel": "in_app",
+    "rating": 3,
+    "text": "Interesting new feature but I'll wait till it's stable before using it. Too many reports of issues from friends.",
+    "sentiment": "unknown"
+  }
+]
