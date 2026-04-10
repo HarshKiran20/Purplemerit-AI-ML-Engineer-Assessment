@@ -51,7 +51,7 @@ def run_war_room(progress_callback=None) -> dict:
     if not feedback_data: raise ValueError("feedback.json is empty or failed to load.")
 
     agg            = aggregate_metrics(metrics_data)
-    breach_summary = get_breach_summary(metrics_data)
+    breach_summary = get_breach_summary(agg)
     sentiment_raw  = analyze_sentiment(feedback_data)
     issues_raw     = categorize_issues(feedback_data)
 
@@ -147,8 +147,8 @@ def _resolve_verdict(agent_results, agg, breach_summary, sentiment_raw, issues_r
 
     crit         = breach_summary.get("critical_count", 0)
     warn         = breach_summary.get("warning_count",  0)
-    crit_metrics = breach_summary.get("critical_metrics", [])
-    warn_metrics = breach_summary.get("warning_metrics",  [])
+    crit_metrics = breach_summary.get("CRITICAL", [])
+    warn_metrics = breach_summary.get("WARNING",  [])
     if crit > 0: parts.append(f"{crit} metric(s) in CRITICAL breach: {', '.join(crit_metrics)}.")
     if warn > 0: parts.append(f"{warn} metric(s) in WARNING: {', '.join(warn_metrics)}.")
     if crit == 0 and warn == 0: parts.append("All metrics within acceptable thresholds.")
