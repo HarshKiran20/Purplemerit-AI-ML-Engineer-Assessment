@@ -239,7 +239,7 @@ $ streamlit run app.py
   You can now view your Streamlit app in your browser.
   Local URL: http://localhost:8501
 ```
-
+```
 # Click LAUNCH WAR ROOM
 
 # [12:35:44] Dispatching agents to war room...
