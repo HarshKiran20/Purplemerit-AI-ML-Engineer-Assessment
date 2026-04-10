@@ -19,7 +19,7 @@ War Room is a multi-agent system built for **PurpleMerit Technologies** Assessme
 | **Support Agent** | Ticket triage, P0/P1 prioritisation, response templates                         |
 
 ---
-Try the Multi-Agent-war room  link- https://purplemerit-ai-ml-engineer-nxsxa6jdy5wtysjy3sr3pr.streamlit.app/
+Try the Multi-Agent-war room  click on - https://purplemerit-ai-ml-engineer-nxsxa6jdy5wtysjy3sr3pr.streamlit.app/
 ---
 ---
 
